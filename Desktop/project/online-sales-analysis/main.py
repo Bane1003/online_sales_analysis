@@ -21,10 +21,9 @@ prom.total_sum()
 
 cart = Cart()
 
-cart = Cart()
 cart.add_to_cart(p1)
 cart.add_to_cart(p3)
 cart.add_to_cart(p5)
 
-cart.show_cart()
 cart.total_cart_value()
+cart.show_cart()
